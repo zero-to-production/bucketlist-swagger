@@ -11,6 +11,9 @@ public class BucketlistApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		/**
+		 * We are doing nothing
+		 */
 	}
 
 }
